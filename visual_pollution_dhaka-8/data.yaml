@@ -1,0 +1,20 @@
+names:
+- '0'
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
+- Industrial Clothes dump
+- Industrial Textile billboard
+- Industrial Textile dye
+nc: 9
+roboflow:
+  license: CC BY 4.0
+  project: visual_pollution_dhaka
+  url: https://universe.roboflow.com/my-leaf/visual_pollution_dhaka/dataset/8
+  version: 8
+  workspace: my-leaf
+test: ../test/images
+train: visual_pollution_dhaka-8/train/images
+val: visual_pollution_dhaka-8/valid/images
