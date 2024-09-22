@@ -297,6 +297,6 @@ professional support requests please visit [https://ultralytics.com/contact](htt
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-instagram.png" width="3%"/>
     </a>
 </div>
-
+[title]: Pytorch
 [assets]: https://github.com/ultralytics/yolov5/releases
 [tta]: https://github.com/ultralytics/yolov5/issues/303
